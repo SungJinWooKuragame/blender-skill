@@ -1,0 +1,16 @@
+{
+  "name": "blender-skill",
+  "description": "Skill de produção 3D no Blender para Claude Code.",
+  "owner": {
+    "name": "SungJinWooKuragame"
+  },
+  "plugins": [
+    {
+      "name": "blender-skill",
+      "source": "./",
+      "description": "Blender 3D production: modelagem, lookdev, animação, GTA V/Sollumz, engines.",
+      "homepage": "https://github.com/SungJinWooKuragame/blender-skill",
+      "license": "MIT"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "blender-skill",
+  "description": "Produção 3D profissional no Blender 5.x: modelagem, lookdev premium, animação, GTA V/FiveM com Sollumz, Unreal, Unity, Godot.",
+  "version": "1.0.0",
+  "author": {
+    "name": "SungJinWooKuragame"
+  },
+  "homepage": "https://github.com/SungJinWooKuragame/blender-skill",
+  "repository": "https://github.com/SungJinWooKuragame/blender-skill",
+  "license": "MIT",
+  "keywords": [
+    "blender",
+    "3d",
+    "bpy",
+    "sollumz",
+    "gta5",
+    "fivem",
+    "unreal",
+    "unity",
+    "godot"
+  ]
+}
